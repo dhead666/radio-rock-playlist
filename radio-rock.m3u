@@ -1,13 +1,13 @@
 #EXTM3U
 
 #http://www.theblitz.com
-#EXTINF:-1 tvg-id="radio-us-the_blitz" tvg-name="radio-us-the_blitz" tvg-logo="radio-us-the_blitz" group-title="Radio" radio="true", The Blitz
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="radio-us-the_blitz" tvg-name="radio-us-the_blitz" tvg-logo="radio-us-the_blitz", The Blitz
 http://icy3.abacast.com/nabco-wrkzfmaac-48
 
 #http://kroq.cbslocal.com/
 #http://provisioning.streamtheworld.com/pls/KROQFM.pls
 #http://provisioning.streamtheworld.com/pls/KROQFMAAC.pls
-#EXTINF:-1 tvg-id="radio-us-kroq" tvg-name="radio-us-kroq" tvg-logo="radio-us-kroq" group-title="Radio" radio="true", KROQ
+#EXTINF:-1 tvg-id="radio-us-kroq" tvg-name="radio-us-kroq" tvg-logo="radio-us-kroq.png", KROQ
 http://8703.live.streamtheworld.com/KROQFM_SC
 
 #http://98kupd.com/
@@ -15,20 +15,20 @@ http://8703.live.streamtheworld.com/KROQFM_SC
 #http://edgev1.den.echo.liquidcompass.net/KUPDFMMP3
 #http://edgev1.den.echo.liquidcompass.net/KUPDFMAAC
 #http://stream.liquidcompass.net/KUPDFMAAC.pls
-#EXTINF:-1 tvg-id="radio-us-98kupd" tvg-name="radio-us-98kupd" tvg-logo="radio-us-98kupd" group-title="Radio" radio="true", 98kupd
+#EXTINF:-1 tvg-id="radio-us-98kupd" tvg-name="radio-us-98kupd" tvg-logo="radio-us-98kupd.png", 98kupd
 http://edgev1.den.echo.liquidcompass.net/KUPDFMMP3
 
 #http://kdkb.com/
 #http://www.radio-locator.com/info/KDKB-FM
 #http://stream.liquidcompass.net/KDKBFMAAC.pls
 #http://stream.us.gslb.liquidcompass.net/KDKBFMAAC
-#EXTINF:-1 tvg-id="radio-us-kdkb" tvg-name="radio-us-kdkb" tvg-logo="radio-us-kdkb" group-title="Radio" radio="true", KDKB
+#EXTINF:-1 tvg-id="radio-us-kdkb" tvg-name="radio-us-kdkb" tvg-logo="radio-us-kdkb.png", KDKB
 http://stream.us.gslb.liquidcompass.net/KDKBFMAAC
 
 #http://pirateradio.rit.edu/
-#EXTINF:-1 tvg-id="radio-us-wqqn-pirate_radio" tvg-name="radio-us-wqqn-pirate_radio" tvg-logo="radio-us-wqqn-pirate_radio" group-title="Radio" radio="true", WQQN Pirate Radio
+#EXTINF:-1 tvg-id="radio-us-wqqn-pirate_radio" tvg-name="radio-us-wqqn-pirate_radio" tvg-logo="radio-us-wqqn-pirate_radio.png", WQQN Pirate Radio
 http://smc.rit.edu:8000/pirate-192
 
 #http://www.kcsn.org/
-#EXTINF:-1 tvg-id="radio-us-kcsn" tvg-name="radio-us-kcsn" tvg-logo="radio-us-kcsn" group-title="Radio" radio="true", KCSN
+#EXTINF:-1 tvg-id="radio-us-kcsn" tvg-name="radio-us-kcsn" tvg-logo="radio-us-kcsn.png", KCSN
 http://130.166.82.184:8000
