@@ -1,7 +1,7 @@
 #EXTM3U
 
 #http://www.theblitz.com
-#EXTINF:-1 group-title="Radio" radio="true" tvg-id="radio-us-the_blitz" tvg-name="radio-us-the_blitz" tvg-logo="radio-us-the_blitz", The Blitz
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="radio-us-the_blitz" tvg-name="radio-us-the_blitz" tvg-logo="radio-us-the_blitz.png", The Blitz
 http://icy3.abacast.com/nabco-wrkzfmaac-48
 
 #http://kroq.cbslocal.com/
