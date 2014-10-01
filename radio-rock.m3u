@@ -25,9 +25,9 @@ http://edgev1.den.echo.liquidcompass.net/KUPDFMMP3
 #EXTINF:-1 tvg-id="radio-us-kdkb" tvg-name="radio-us-kdkb" tvg-logo="radio-us-kdkb.png", KDKB
 http://stream.us.gslb.liquidcompass.net/KDKBFMAAC
 
-#http://pirateradio.rit.edu/
+#http://wqqn.net/
 #EXTINF:-1 tvg-id="radio-us-wqqn-pirate_radio" tvg-name="radio-us-wqqn-pirate_radio" tvg-logo="radio-us-wqqn-pirate_radio.png", WQQN Pirate Radio
-http://smc.rit.edu:8000/pirate-192
+http://162.251.160.2:80/wqqnradiohigh
 
 #http://www.kcsn.org/
 #EXTINF:-1 tvg-id="radio-us-kcsn" tvg-name="radio-us-kcsn" tvg-logo="radio-us-kcsn.png", KCSN
